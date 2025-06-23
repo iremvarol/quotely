@@ -12,6 +12,7 @@ Quotely is a simple, responsive quote generator application built with React and
 
 ## Demo
 
+[Live Demo](https://irem-quotes.netlify.app)
 
 ## Tech Stack
 
